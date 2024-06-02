@@ -111,10 +111,17 @@ main a:hover{
     text-decoration: underline;
 }
 
-main img{
+main img {
     display: block;
+    max-width: 100%;
     margin: auto;
 }
+
+
+main picture img {
+    max-width: 100%;
+}
+
 
 .pequena{
     width: 350px;
