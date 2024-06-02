@@ -114,8 +114,6 @@ main a:hover{
 main img{
     display: block;
     margin: auto;
-    min-width: auto;
-    max-width: auto;
 }
 
 .pequena{
