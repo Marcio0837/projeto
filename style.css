@@ -91,6 +91,7 @@ aside h3{
 
 aside ul{
     list-style: inside;
+    columns: 2;
     padding: 10px;
 }
 
