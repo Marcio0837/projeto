@@ -114,8 +114,8 @@ main a:hover{
 main img{
     display: block;
     margin: auto;
-    width: 70%px;
-    background-attachment: fixed;
+    min-width: auto;
+    max-width: auto;
 }
 
 .pequena{
