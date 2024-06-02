@@ -110,17 +110,19 @@ main a:hover{
     text-decoration: underline;
 }
 
+main img{
+    display: block;
+    margin: auto;
+    width: 70%px;
+    background-attachment: fixed;
+}
+
 .pequena{
     width: 350px;
     margin: auto;
     display: block;
 }
 
-img{
-    display: block;
-    margin: auto;
-    width: 89%;
-}
 
 aside{
      background-color: rgba(33, 128, 41, 0.623);
