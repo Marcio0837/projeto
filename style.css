@@ -88,6 +88,7 @@ main h2{
 main p{
     font-family: var(--fonte-padrao);
     line-height: 40px;
+    text-indent: 10px;
 }
 
 main span{
