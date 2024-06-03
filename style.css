@@ -118,11 +118,6 @@ main img {
 }
 
 
-main picture img {
-    max-width: 100%;
-}
-
-
 .pequena{
     width: 350px;
     margin: auto;
